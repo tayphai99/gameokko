@@ -14,17 +14,17 @@ a {
 a:hover {
     color: orange;
 }
-ul {display: block;list-style-type: disc;margin-block-start: 1em;margin-block-end: 1em;margin-inline-start: 0px;margin-inline-end: 0px;padding-inline-start: 50px;padding-right: 15px;}
-ol {display: block;margin-block-start: 1em;margin-block-end: 1em;margin-inline-start: 0px;margin-inline-end: 0px;padding-inline-start: 50px;padding-right: 15px;}
-ol li {margin-bottom: 10px;padding-left: 7px;}
-li {margin-bottom: 10px;line-height: 1.58;}
+ul {display: block;list-style-type: disc;margin-block-start: 1em;margin-block-end: 1em;margin-inline-start: 0px;margin-inline-end: 0px;padding-inline-start: 30px;padding-right: 15px;}
+ol {display: block;margin-block-start: 1em;margin-block-end: 1em;margin-inline-start: 0px;margin-inline-end: 0px;padding-inline-start: 30px;padding-right: 15px;}
+ol li {margin-bottom: 10px;}
+li {margin-bottom: 5px;}
 h1 {margin: 0;font-size: 1.7em;padding: 15px;line-height: 1.4;}
 h2 {margin: 0;font-size: 1.5em;padding: 15px;line-height: 1.4;} 
 h3 {margin: 0;font-size: 1.2em;padding: 15px;line-height: 1.4;} 
 p {
     padding: 15px;
     margin: 0;
-    line-height: 1.58;
+    line-height: 1.4;
 }
 img {border-style: none;display: inline-block;} 
 .center{text-align: center;}
@@ -73,11 +73,12 @@ img {border-style: none;display: inline-block;}
     margin-left: auto;
     margin-right: auto;
     background: #444;
+    box-shadow: 0 0px 2px #000;
 }
 .box_content p img {
     width: 100%;
     border-radius: 10px;
-}
+} 
 .box_top-search {
     max-width: 600px;
     margin-left: auto;
@@ -272,7 +273,33 @@ img {border-style: none;display: inline-block;}
 }
 
 
- 
+.space {
+    margin-top: 70px;
+}
+.box_c1 {
+    background: #4a0c19;
+    display: inline-block;
+}
+.box_c2 {
+    background: #075390;
+    display: inline-block;
+}
+.box_c3 {
+    background: #222;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (max-width:480px) {
  /* setting all */
 h1 {font-size: 1.3em;padding: 15px 15px 10px 15px} 

@@ -17,7 +17,7 @@ a:hover {
 ul {display: block;list-style-type: disc;margin-block-start: 1em;margin-block-end: 1em;margin-inline-start: 0px;margin-inline-end: 0px;padding-inline-start: 50px;padding-right: 15px;}
 ol {display: block;margin-block-start: 1em;margin-block-end: 1em;margin-inline-start: 0px;margin-inline-end: 0px;padding-inline-start: 50px;padding-right: 15px;}
 ol li {margin-bottom: 10px;padding-left: 7px;}
-li {margin-bottom: 10px;}
+li {margin-bottom: 10px;line-height: 1.58;}
 h1 {margin: 0;font-size: 1.7em;padding: 15px;line-height: 1.4;}
 h2 {margin: 0;font-size: 1.5em;padding: 15px;line-height: 1.4;} 
 h3 {margin: 0;font-size: 1.2em;padding: 15px;line-height: 1.4;} 
@@ -78,17 +78,11 @@ img {border-style: none;display: inline-block;}
     width: 100%;
     border-radius: 10px;
 }
- 
-
 .box_top-search {
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
-    padding: 15px 0;
-    background: #444;
-    padding-bottom: 0px;
-    border-radius: 0 0 10px 10px;
 }
 .box_top-filter {
     max-width: 600px;
@@ -117,12 +111,12 @@ img {border-style: none;display: inline-block;}
 /* search */
 #myInput {
     background-image: url('searchicon.png');
-    background-position: 15px 12px;
+    background-position: 15px 9px;
     background-repeat: no-repeat;
     width: 100%;
     box-sizing: border-box;
     font-size: 16px;
-    padding: 12px 15px 12px 47px;
+    padding: 10px 15px 10px 47px;
     border: 0px solid #333;
     border-radius: 0 0 10px 10px;
 }
@@ -187,6 +181,11 @@ img {border-style: none;display: inline-block;}
 .shop_info p {
 	padding: 10px 0;
 }
+
+.shop_info ul {
+	padding-inline-start: 15px;
+}
+
 /* shop */
 
 /* filter menu */

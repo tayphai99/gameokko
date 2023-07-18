@@ -17,7 +17,10 @@ a:hover {
 ul {display: block;list-style-type: disc;margin-block-start: 1em;margin-block-end: 1em;margin-inline-start: 0px;margin-inline-end: 0px;padding-inline-start: 30px;padding-right: 15px;}
 ol {display: block;margin-block-start: 1em;margin-block-end: 1em;margin-inline-start: 0px;margin-inline-end: 0px;padding-inline-start: 30px;padding-right: 15px;}
 ol li {margin-bottom: 10px;}
-li {margin-bottom: 5px;}
+li {
+    margin-bottom: 5px;
+    line-height: 1.4;
+}
 h1 {margin: 0;font-size: 1.7em;padding: 15px;line-height: 1.4;}
 h2 {margin: 0;font-size: 1.5em;padding: 15px;line-height: 1.4;} 
 h3 {margin: 0;font-size: 1.2em;padding: 15px;line-height: 1.4;} 

@@ -59,7 +59,7 @@ img {border-style: none;display: inline-block;}
 }
 .btn img:hover {
 	border: solid 1px orange;
-}
+} 
 .fo {
     display: none;
     background: #444;
@@ -69,39 +69,27 @@ img {border-style: none;display: inline-block;}
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 10px;
+    padding: 15px;
+    box-sizing: border-box; 
 }
 .show {display:block;}
-
-.fo-id {
-    padding: 10px 15px 5px 15px;
+.fo p {
+    padding: 0px 0px 5px 0px;
 }
-.fo-img {
-  padding: 0px 0px 5px 0px;
-  margin: 0 15px; 
-  display: flex;
-  flex-wrap: wrap;
-}
-.fo-img-2 {
-    padding: 0px 15px 0px 15px;
-    margin-bottom: 10px;
-    display: inline-table;
-} 
-
-.fo-img img {
+.fo img {
     height: auto;
     width: 15.6%;
     padding-right: 1%;
     padding-top: 5px;
     border-radius: 3px;
-}
-.fo-img-2 img {
-    width: 66px;
+} 
+.i img {
     height: auto;
-    padding-right: 5px;
+    width: 15.6%;
+    padding-right: 1%;
     padding-top: 5px;
-    border-radius: 10px;
-}
-
+    border-radius: 3px;
+} 
 .fo-info {
     padding: 10px 15px;
     display: flex;

@@ -7,8 +7,7 @@ summary: "Bộ kỹ năng SSR Kujaku Myoo trong Onmyoji."
 weight: 110 
 cover:
     image: "https://d.gameokko.com/onmyoji/ssr-asura-1.jpg" 
-    alt: "ssr-asura" 
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
+    alt: "ssr-asura"  
 ---
   
 ## Kỹ năng 1: Phi tiêu lông vũ 

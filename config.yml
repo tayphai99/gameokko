@@ -6,7 +6,7 @@ theme: PaperMod
 pluralizeListTitles : false
 
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 languages:
   en:
     contentDir: content/en
@@ -38,7 +38,13 @@ languages:
       main: 
       - name: Onmyoji
         pageRef: /onmyoji/
+        weight: 10 
+      - name: Search
+        pageRef: /search
         weight: 20 
+      - name: Tags
+        pageRef: /tags
+        weight: 30 
   vi:
     contentDir: content/vi
     disabled: false
@@ -56,7 +62,13 @@ languages:
       main: 
       - name: Onmyoji
         pageRef: /onmyoji/
+        weight: 10 
+      - name: Tìm kiếm
+        pageRef: /search
         weight: 20 
+      - name: Tags
+        pageRef: /tags
+        weight: 30 
     weight: 2
 
 params:
@@ -110,3 +122,8 @@ params:
     icon: /icon/apple-touch-icon.png
     iconHeight: 35
 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary

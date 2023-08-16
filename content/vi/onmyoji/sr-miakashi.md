@@ -3,6 +3,7 @@ title: "Onmyoji: SR Miakashi"
 date: 2023-08-16
 description: "Bộ kỹ năng SR Miakashi trong Onmyoji"
 summary: "Bộ kỹ năng SR Miakashi trong Onmyoji"   
+tags: ["Onmyoji SR"]
 cover:
     image: "https://d.gameokko.com/onmyoji/sr-miakashi-1.jpg" 
     alt: "Onmyoji: SR Miakashi"  

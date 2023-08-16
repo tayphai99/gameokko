@@ -3,6 +3,8 @@ title: GAME OKKO
 paginate: 50
 theme: PaperMod
 
+pluralizeListTitles : false
+
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 languages:
@@ -14,27 +16,58 @@ languages:
     languageName: English
     name: English
     title: English
+    homeInfoParams:
+      Title: "News & Game Wikis"
+      Content: Tra cứu thông tin về trò chơi yêu thích
+    ## socialIcons:
+    ##- name: youtube
+    ##  url: "https://youtube.com/"
+    ##- name: facebook
+    ##  url: "https://facebook.com/" 
+    ##- name: buymeacoffee
+    ##  url: "https://www.buymeacoffee.com/"
+    ##- name: kofi
+    ##  url: "https://ko-fi.com/"  
+ 
     params:
       subtitle: News, Game Wiki, Game Guide
     title: GAME OKKO
     weight: 1 
+    menu:
+    menu:
+      main: 
+      - name: Onmyoji
+        pageRef: /onmyoji/
+        weight: 20 
   vi:
     contentDir: content/vi
     disabled: false
     languageCode: vi
     languageDirection: ltr
-    languageName: Tiếng Việt
+    languageName: Tiếng Việt  
+    homeInfoParams:
+      Title: "News & Game Wikis"
+      Content: Tra cứu thông tin về trò chơi yêu thích
+
     params:
-      subtitle: News, Game Wiki, Game Guide
+      subtitle:  Game Wiki, Game Guide
     title: GAME OKKO
+    menu:
+      main: 
+      - name: Onmyoji
+        pageRef: /onmyoji/
+        weight: 20 
     weight: 2
 
 params:
   mainSections: 
   - onmyoji 
+  - faqs 
+  - news 
+  - game-moi 
 
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: GAME OKKO
+  title: GAME OKKO 
   description: "News & Game Wiki"
   keywords: [News, Game Wiki, Game Guide]
   author: okko
@@ -44,13 +77,13 @@ params:
   dateFormatEn: "January 2, 2006"
   dateFormatVi: "2/1/2006"
   defaultTheme: dark # auto , light
-  disableThemeToggle: true
+  disableThemeToggle: false
 
   hideAuthor: false
   ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: false
+  ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
   ShowWordCount: false
   ShowRssButtonInSectionTermList: true
@@ -77,8 +110,3 @@ params:
     icon: /icon/apple-touch-icon.png
     iconHeight: 35
 
-  # home-info mode
-  homeInfoParams:
-    Title: "GAME OKKO News & Game Wikis"
-    Content: Tra cứu thông tin về trò chơi yêu thích
- 

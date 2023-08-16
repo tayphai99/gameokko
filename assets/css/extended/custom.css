@@ -41,7 +41,7 @@
     border-radius: 0;
     box-shadow: 0 0 5px #111;
     margin: 0;
-    background: #224!important;
+    background: var(--entry)!important;
     border: solid 1px #777;
 }
 .toc:hover {
@@ -50,7 +50,9 @@
 .paginav { 
     border-radius: 0;
 }
-
+.first-entry { 
+    min-height: 0; 
+}
 
 .post-tags a, .share-buttons, .paginav {
     border-radius: 0;
@@ -110,6 +112,20 @@
 
 
  
+.ebox-1{background-color: #224;color:#ddd;padding: 15px;border: solid 1px #777;margin: 10px 0;
+box-shadow: 0 0 5px #111;}
+.ebox-2{background-color: #470404;color:#ddd;padding: 15px;border: solid 1px #777;margin: 10px 0;
+    box-shadow: 0 0 5px #111;}
+
+
+
+
+
+
+
+
+
+
 
 select#bloodGroupSelect, #nationalitySelect, #genderSelect  {
     padding: 5px;

@@ -9,6 +9,11 @@
     one : "1 phút"
     other: "{{ .Count }} phút"
 
+- id: words
+  translation:
+    one : "từ"
+    other: "{{ .Count }} từ"
+
 - id: toc
   translation: "Mục lục"
 

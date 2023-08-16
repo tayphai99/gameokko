@@ -35,14 +35,14 @@ Biến chiếc quạt lông vũ của cô ấy thành một thanh kiếm để t
 ## Kỹ năng 2: Thăng Hoa
 Special, Dispel, Passive
 
-**Hiệu Quả Duy Nhất**. Khi trận chiến bắt đầu và khi kết thúc lượt của cô ấy. nhận được 1 điểm cộng dồn **Lông Công**. Khi thực thể đồng minh không được triệu hồi có lượng HP thấp nhất nhận sát thương, có 30% **Tỷ Lệ Cơ Bản** gây ra **Tước Vũ Khí** đối với nguồn gây sát thương. Bất cứ khi nào cô ấy nhận được 5 điểm cộng dồn **Lông Công**, cô ấy sẽ nhận được 1 điểm cộng dồn **Lông Đuôi Công** và tăng SPD của cô ấy thêm 50% trong 1 lượt. Nếu cô ấy có 5 điểm tích trữ **Lông Công** khi bắt đầu lượt của mình, cô ấy sẽ kết thúc **Lông Vũ Lĩnh Vực** và tiêu thụ tất cả các điểm tích trữ **Lông Công** để thực hiện **Xòe Đuôi** trong 3 lượt.
+**Hiệu Quả Duy Nhất**. Khi trận chiến bắt đầu và khi kết thúc lượt của cô ấy. nhận được 1 điểm cộng dồn **Lông Công**. Khi thực thể đồng minh không được triệu hồi có lượng HP thấp nhất nhận sát thương, có 30% **Tỷ Lệ Cơ Bản** gây ra **Tước Vũ Khí** đối với nguồn gây sát thương. Bất cứ khi nào cô ấy nhận được 5 điểm cộng dồn **Lông Công**, cô ấy sẽ nhận được 1 điểm cộng dồn **Lông Đuôi Công** và tăng SPD của cô ấy thêm 50% trong 1 lượt. Nếu cô ấy có 5 điểm cộng dồn **Lông Công** khi bắt đầu lượt của mình, cô ấy sẽ kết thúc **Lông Vũ Lĩnh Vực** và tiêu thụ tất cả các điểm cộng dồn **Lông Công** để thực hiện **Xòe Đuôi** trong 3 lượt.
 
  
 - Lv.2 Khi cô ấy bắt đầu thực hiện **Xòe Đuôi**, loại bỏ tất cả các debuff khỏi cô ấy. Nếu một **Hiệu Ứng Kiểm Soát** bị loại bỏ theo cách này, thời lượng **Xòe Đuôi** của cô ấy sẽ giảm xuống còn 1 lượt.
 
 - Lv.3 Trong khi cô ấy đang thực hiện **Xòe Đuôi**, giúp cô ấy miễn nhiễm với debuff và sát thương trong lượt của cô ấy.
 - Lv.4 Bất cứ khi nào cô ấy nhận được 1 điểm cộng dồn **Lông Công**, sẽ giải trừ 1 hiệu ứng xấu khỏi cô ấy.
-- Lv.5 Khi cô ấy đang thực hiện **Xòe Đuôi**, mỗi 1% chính xác hiệu ứng cô ấy nhận được sẽ tăng ATK của cô ấy thêm 1%. Khi cô ấy hoàn thành việc thực hiện **Xòe Đuôi**, ngay lập tức nhận được 1 điểm tích trữ **Lông Công**. 
+- Lv.5 Khi cô ấy đang thực hiện **Xòe Đuôi**, mỗi 1% chính xác hiệu ứng cô ấy nhận được sẽ tăng ATK của cô ấy thêm 1%. Khi cô ấy hoàn thành việc thực hiện **Xòe Đuôi**, ngay lập tức nhận được 1 điểm cộng dồn **Lông Công**. 
 
 {{< onmyoji/skill/peacock-plume-vi >}}
 {{< onmyoji/skill/tail-plume-vi >}} 

@@ -4,7 +4,7 @@ date: 2023-08-15
 description: "Bộ kỹ năng SSR Kujaku Myoo trong Onmyoji"
 summary: "Bộ kỹ năng SSR Kujaku Myoo trong Onmyoji"   
 cover:
-    image: "https://d.gameokko.com/onmyoji/ssr-kujaku-myoo-1.jpg" 
+    image: "https://d.gameokko.com/onmyoji/ssr-kujaku-myoo-1a.jpg" 
     alt: "Onmyoji: SSR Kujaku Myoo"  
 ---
 

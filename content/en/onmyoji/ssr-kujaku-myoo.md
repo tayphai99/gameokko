@@ -4,7 +4,7 @@ date: 2023-08-15
 description: "The SSR Kujaku Myoo Skill Set in Onmyoji"
 summary: "The SSR Kujaku Myoo Skill Set in Onmyoji"   
 cover:
-    image: "https://d.gameokko.com/onmyoji/ssr-kujaku-myoo-1a.jpg" 
+    image: "https://d.gameokko.com/onmyoji/ssr-kujaku-myoo-1.jpg" 
     alt: "Onmyoji: SSR Kujaku Myoo"  
 ---
 

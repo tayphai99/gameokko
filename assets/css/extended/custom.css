@@ -109,14 +109,24 @@
     box-shadow: 0 0 5px #111;
 }
 
-
-
+ 
+.dark\:text-gray-200 {
+    color: #fff!important;
+}
  
 .ebox-1{background-color: #224;color:#ddd;padding: 15px;border: solid 1px #777;margin: 10px 0;
 box-shadow: 0 0 5px #111;}
 .ebox-2{background-color: #470404;color:#ddd;padding: 15px;border: solid 1px #777;margin: 10px 0;
     box-shadow: 0 0 5px #111;}
-
+.ebox-1 img, .ebox-2 img {
+        display: inline-block;
+        margin: 0;
+        width: 25px;
+        height: auto;
+        vertical-align: middle;
+        box-shadow: 0 0 5px #111;
+        border: solid 1px #111;
+    }
 
 
 

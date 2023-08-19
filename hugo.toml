@@ -22,7 +22,12 @@ weight = 1
     [languages.en.params.homeInfoParams]
     Title = "News & Game Wikis"
     Content = "Look up information about your favorite game"
-    
+
+    [[languages.en.menu.main]]
+    name = "Sword Chronicles: Awaken"
+    pageRef = "/sword-chronicles-awaken/"
+    weight = 9
+
     [[languages.en.menu.main]]
     name = "Onmyoji"
     pageRef = "/onmyoji/"
@@ -55,6 +60,11 @@ weight = 2
     Content = "Tra cứu thông tin về trò chơi yêu thích"
 
     [[languages.vi.menu.main]]
+    name = "Sword Chronicles: Awaken"
+    pageRef = "/sword-chronicles-awaken/"
+    weight = 9
+
+    [[languages.vi.menu.main]]
     name = "Onmyoji"
     pageRef = "/onmyoji/"
     weight = 10
@@ -70,7 +80,7 @@ weight = 2
     weight = 30
 
 [params]
-mainSections = [ "onmyoji", "faqs", "news", "game-moi" ]
+mainSections = [ "sword-chronicles-awaken", "onmyoji"]
 env = "production"
 title = "GAME OKKO"
 description = "News & Game Wiki"

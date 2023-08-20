@@ -4,7 +4,7 @@ date: 2023-08-20
 description: "How To Use A Redemption Code To Claim Rewards"
 summary: "How To Use A Redemption Code To Claim Rewards"   
 cover:
-    image: "https://d.gameokko.com/sword-chronicles-awaken/1.jpg" 
+    image: "https://d.gameokko.com/sword-chronicles-awaken/0.jpg" 
     alt: "HOw To Use A Redemption Code To Claim Rewards"  
 ---
 

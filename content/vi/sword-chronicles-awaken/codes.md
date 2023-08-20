@@ -4,7 +4,7 @@ date: 2023-08-20
 description: "Cách Sử Dụng Mã Code Để Nhận Thưởng"
 summary: "Cách Sử Dụng Mã Code Để Nhận Thưởng"   
 cover:
-    image: "https://d.gameokko.com/sword-chronicles-awaken/1.jpg" 
+    image: "https://d.gameokko.com/sword-chronicles-awaken/0.jpg" 
     alt: "Cách Sử Dụng Mã Code Để Nhận Thưởng"  
 ---
 

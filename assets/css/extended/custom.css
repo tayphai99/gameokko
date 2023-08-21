@@ -126,6 +126,10 @@
     width: 50%;
     padding: 0 15px;
 }
+    /* show cover in tags */ 
+.tag-entry .entry-cover{
+    display: block;
+}
 @media screen and (max-width:480px) { 
     .index_box {
         display: block;

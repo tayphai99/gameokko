@@ -12,11 +12,11 @@ disabled = false
 languageCode = "en-US"
 languageDirection = "ltr"
 languageName = "English"
-title = "English"
+title = "GAME OKKO"
 weight = 1
 
   [languages.en.params]
-  name = "English"
+  name = "GAME OKKO"
   subtitle = "News, Game Wiki, Game Guide"
 
     [languages.en.params.homeInfoParams]
@@ -49,7 +49,7 @@ disabled = false
 languageCode = "vi"
 languageDirection = "ltr"
 languageName = "Tiếng Việt"
-title = "Tiếng Việt"
+title = "GAME OKKO"
 weight = 2
  
   [languages.vi.params]

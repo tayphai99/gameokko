@@ -108,7 +108,9 @@
     border-radius: 0;
     box-shadow: 0 0 5px #111;
 }
-
+.post-content img {
+    border-radius: 0;
+}
 /* INDEX CSS ADD */ 
 .index_box {
     display: flex;

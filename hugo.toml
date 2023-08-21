@@ -24,14 +24,15 @@ weight = 1
     Content = "Look up information about your favorite game"
 
     [[languages.en.menu.main]]
-    name = "Sword Chronicles: Awaken"
-    pageRef = "/sword-chronicles-awaken/"
-    weight = 9
-
-    [[languages.en.menu.main]]
     name = "Onmyoji"
     pageRef = "/onmyoji/"
+    weight = 5
+
+    [[languages.en.menu.main]]
+    name = "Sword Chronicles: Awaken"
+    pageRef = "/sword-chronicles-awaken/"
     weight = 10
+
 
     [[languages.en.menu.main]]
     name = "Search"
@@ -58,15 +59,15 @@ weight = 2
     [languages.vi.params.homeInfoParams]
     Title = "News & Game Wikis"
     Content = "Tra cứu thông tin về trò chơi yêu thích"
+   
+    [[languages.vi.menu.main]]
+    name = "Onmyoji"
+    pageRef = "/onmyoji/"
+    weight = 5
 
     [[languages.vi.menu.main]]
     name = "Sword Chronicles: Awaken"
     pageRef = "/sword-chronicles-awaken/"
-    weight = 9
-
-    [[languages.vi.menu.main]]
-    name = "Onmyoji"
-    pageRef = "/onmyoji/"
     weight = 10
 
     [[languages.vi.menu.main]]

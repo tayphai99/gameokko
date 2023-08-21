@@ -76,3 +76,5 @@ Has a 100% Base Chance of inflicting Disarm lasting 2 turns. Launches a 4-strike
 - Lv. 3 Increases the follow-up damage to 55%.
 - Lv. 4 Increases the follow-up damage to 60%.
 - Lv. 5 The follow-up damage ignores DEF by 240.
+
+{{< onmyoji/tags >}}

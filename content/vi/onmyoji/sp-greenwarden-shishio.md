@@ -45,3 +45,5 @@ Tập trung hơi thở tâm linh của đồng loại để tấn công 1 kẻ �
 
 {{< onmyoji/skill/sylvan-heart-vi  >}}
 {{< onmyoji/skill/vinebound-vi  >}}
+
+{{< onmyoji/tags-vi >}}

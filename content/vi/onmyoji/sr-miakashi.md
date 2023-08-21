@@ -42,3 +42,5 @@ Với cơ thể được thanh tẩy, tâm trí tĩnh lặng và những chiếc
 {{< onmyoji/skill/karmic-hindrance-vi >}}
 {{< onmyoji/skill/fettered-vi >}}
 {{< onmyoji/skill/lantern-of-enlightenment-vi >}}
+
+{{< onmyoji/tags-vi >}}

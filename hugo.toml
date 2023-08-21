@@ -38,11 +38,7 @@ weight = 1
     name = "Search"
     pageRef = "/search"
     weight = 20
-
-    [[languages.en.menu.main]]
-    name = "Tags"
-    pageRef = "/tags"
-    weight = 30
+ 
 
 [languages.vi]
 contentDir = "content/vi"
@@ -74,11 +70,7 @@ weight = 2
     name = "Tìm kiếm"
     pageRef = "/search"
     weight = 20
-
-    [[languages.vi.menu.main]]
-    name = "Tags"
-    pageRef = "/tags"
-    weight = 30
+ 
 
 [params]
 mainSections = [ "sword-chronicles-awaken", "onmyoji"]

@@ -59,3 +59,5 @@ Effective Exclusively. Grants her 1 Divine Power stack and heals 1 ally by 8% of
 {{< onmyoji/skill/shelter >}}
 {{< onmyoji/skill/controlling-effect >}}
  
+
+{{< onmyoji/tags >}}

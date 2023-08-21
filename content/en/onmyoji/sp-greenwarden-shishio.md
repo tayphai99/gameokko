@@ -57,3 +57,5 @@ Alas, as disasters started to spread in his new home, he saw the tragedies of th
 If the Cervitaurs once llived in the forest, the way to save the land might still be there in his distant holne. And so he embarked on his journey home to seek the ancient legend and to run with his friends again.
 
 He will also fulfill the unfinished wish of his people and, as thelPatron of the Forest, listen to the last echoes of his homeland.
+
+{{< onmyoji/tags >}}

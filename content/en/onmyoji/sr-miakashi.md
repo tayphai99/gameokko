@@ -42,3 +42,5 @@ With her body cleansed, her mind calmed, and the lanterns shining brightly, Miak
 {{< onmyoji/skill/karmic-hindrance >}}
 {{< onmyoji/skill/fettered >}}
 {{< onmyoji/skill/lantern-of-enlightenment >}}
+
+{{< onmyoji/tags >}}

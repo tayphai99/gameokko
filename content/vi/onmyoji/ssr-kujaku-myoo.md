@@ -78,3 +78,5 @@ Có 100% Tỷ lệ cơ bản gây ra **Tước Vũ Khí** kéo dài 2 lượt. P
 - Lv. 3 Tăng sát thương của các đòn tiếp theo lên 55%.
 - Lv. 4 Tăng sát thương của các đòn tiếp theo lên 60%.
 - Lv. 5 Sát thương của các đòn tiếp theo bỏ qua 240 DEF.
+
+{{< onmyoji/tags-vi >}}

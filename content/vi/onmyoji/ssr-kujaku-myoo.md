@@ -3,7 +3,7 @@ title: "Onmyoji: SSR Kujaku Myoo"
 date: 2023-08-15
 description: "Bộ kỹ năng SSR Kujaku Myoo trong Onmyoji"
 summary: "Bộ kỹ năng SSR Kujaku Myoo trong Onmyoji"   
-tags: ["Onmyoji SSR"]
+tags: ["Shikigami SSR - Onmyoji"]
 cover:
     image: "https://d.gameokko.com/onmyoji/ssr-kujaku-myoo-1.jpg" 
     alt: "Onmyoji: SSR Kujaku Myoo"  

@@ -12,7 +12,7 @@ cover:
 ## Skill 1: Weave Bonds
 Damage, Orb 0
 
-Atiaficlés 1 enemy with her long-lost divine power, dealing damage equal to 100% of her ATK.
+Attacks 1 enemy with her long-lost divine power, dealing damage equal to 100% of her ATK.
 
 - Lv.2 Increases damage to 105%
 - Lv.3 Increases damage to 110%.

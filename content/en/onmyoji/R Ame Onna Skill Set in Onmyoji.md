@@ -26,7 +26,7 @@ At the start of her turn, dispels all of her debuffs and Controlling Effects.
 
 {{< onmyoji/skill/controlling-effect >}}
 
-## Skill 2: Sky Tears
+## Skill 3: Sky Tears
 Dispel,  Orbs 2 
 
 Dispels 1 buff from each of the enemies with a 50% Base Chance of inflicting Shackle of Tears lasting 2 turns on them. Dispels 4 debuffs or Controlling Effects from each ally.

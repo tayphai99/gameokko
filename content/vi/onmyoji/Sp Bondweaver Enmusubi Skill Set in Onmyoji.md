@@ -3,7 +3,7 @@ title: "Bộ Kỹ Năng Sp Bondweaver Enmusubi trong Onmyoji"
 date: 2023-08-21
 tags: ["Shikigami SP - Onmyoji"]
 cover:
-    image: "onmyoji/1.jpg" 
+    image: "onmyoji/11.jpg" 
     alt: "Bộ Kỹ Năng Sp Bondweaver Enmusubi trong Onmyoji"  
 ---
 

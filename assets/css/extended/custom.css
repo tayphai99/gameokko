@@ -37,6 +37,10 @@
     border-top: solid 1px #444;
     padding-top: 20px;
 }
+.post-content h3 { 
+    border-top: solid 1px #333;
+    padding-top: 20px;
+}
 .toc {
     border-radius: 0;
     box-shadow: 0 0 5px #111;
@@ -111,12 +115,17 @@
 .post-content img {
     border-radius: 0;
 }
+
+
+
+
+
 /* INDEX CSS ADD */ 
 .index_box {
     display: flex;
 }
 .index_box-left {
-    width: 50%;
+    width: 60%;
 }
 .entry-cover {
     margin-bottom: 0;
@@ -125,12 +134,19 @@
     margin-top: 20px;
 }
 .index_box-right {
-    width: 50%;
+    width: 40%;
     padding: 0 15px;
 }
     /* show cover in tags */ 
 .tag-entry .entry-cover{
     display: block;
+}
+
+.entry-content { 
+    display: none;
+}
+.post-description{
+    display: none;
 }
 @media screen and (max-width:480px) { 
     .index_box {
@@ -150,6 +166,7 @@
         padding: 0;
     }
 }
+
 /* INDEX CSS ADD */ 
 
 

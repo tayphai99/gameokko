@@ -1,12 +1,10 @@
 ---
-title: "Onmyoji: SR Miakashi"
-date: 2023-08-16
-description: "The SR Miakashi Skill Set in Onmyoji"
-summary: "The SR Miakashi Skill Set in Onmyoji"   
+title: "SR Miakashi Skill Set in Onmyoji"
+date: 2023-08-16   
 tags: ["Shikigami SR - Onmyoji"]
 cover:
     image: "https://d.gameokko.com/onmyoji/sr-miakashi-1.jpg" 
-    alt: "Onmyoji: SR Miakashi"  
+    alt: "SR Miakashi Skill Set in Onmyoji"  
 ---
 
 ## Skill 1: Impurity Absolution

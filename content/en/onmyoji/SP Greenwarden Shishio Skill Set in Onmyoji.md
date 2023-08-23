@@ -1,12 +1,10 @@
 ---
-title: "Onmyoji: SP Greenwarden Shishio"
-date: 2023-08-16
-description: "The SP Greenwarden Shishio Skill Set in Onmyoji"
-summary: "The SP Greenwarden Shishio Skill Set in Onmyoji"   
+title: "SP Greenwarden Shishio Skill Set in Onmyoji"
+date: 2023-08-16   
 tags: ["Shikigami SP - Onmyoji"]
 cover:
     image: "https://d.gameokko.com/onmyoji/sp-greenwarden-shishio-1.jpg" 
-    alt: "Onmyoji: SP Greenwarden Shishio"  
+    alt: "SP Greenwarden Shishio Skill Set in Onmyoji"  
 ---
 
 ## Skill 1: Sylvan Breath

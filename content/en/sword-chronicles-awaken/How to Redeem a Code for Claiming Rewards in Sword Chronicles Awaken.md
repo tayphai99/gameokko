@@ -1,20 +1,18 @@
 ---
-title: "Sword Chronicles: Awaken - Codes"
-date: 2023-08-20
-description: "Cách Sử Dụng Mã Code Để Nhận Thưởng"
-summary: "Cách Sử Dụng Mã Code Để Nhận Thưởng"   
+title: "How to Redeem a Code for Claiming Rewards in Sword Chronicles Awaken"
+date: 2023-08-20 
 cover:
     image: "https://d.gameokko.com/sword-chronicles-awaken/0.jpg" 
-    alt: "Cách Sử Dụng Mã Code Để Nhận Thưởng"  
+    alt: "How to Redeem a Code for Claiming Rewards in Sword Chronicles Awaken"  
 ---
 
-## Code Mới
+## New Codes
 - Da Qiao's Joy
 - Server Rewards
 - Da Qiao's Gift
 - Zhuge's Gift
 
-## Cách Sử Dụng
+## How To Use
 
 Event --> Community --> Gift Code Redemption
 
@@ -22,7 +20,8 @@ Event --> Community --> Gift Code Redemption
 ![How To Use 2](https://d.gameokko.com/sword-chronicles-awaken/7.jpg)
 ![How To Use 3](https://d.gameokko.com/sword-chronicles-awaken/8.jpg)
 
-## Phần Thưởng
+## Rewards
+
 ![Reward 1](https://d.gameokko.com/sword-chronicles-awaken/2.jpg)
 ![Reward 2](https://d.gameokko.com/sword-chronicles-awaken/3.jpg)
 ![Reward 3](https://d.gameokko.com/sword-chronicles-awaken/4.jpg)

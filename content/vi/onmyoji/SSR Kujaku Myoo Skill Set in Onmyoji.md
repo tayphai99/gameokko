@@ -1,12 +1,10 @@
 ---
-title: "Onmyoji: SSR Kujaku Myoo"
-date: 2023-08-15
-description: "Bộ kỹ năng SSR Kujaku Myoo trong Onmyoji"
-summary: "Bộ kỹ năng SSR Kujaku Myoo trong Onmyoji"   
+title: "Bộ Kỹ Năng SSR Kujaku Myoo trong Onmyoji"
+date: 2023-08-15  
 tags: ["Shikigami SSR - Onmyoji"]
 cover:
     image: "https://d.gameokko.com/onmyoji/ssr-kujaku-myoo-1.jpg" 
-    alt: "Onmyoji: SSR Kujaku Myoo"  
+    alt: "Bộ Kỹ Năng SSR Kujaku Myoo trong Onmyoji"  
 ---
 
 ## Kỹ năng 1: Phi Tiêu Lông Vũ
@@ -19,10 +17,6 @@ Triệu hồi phi tiêu tấn công 1 kẻ địch, gây sát thương bằng 10
 - Lv.4 Tăng sát thương lên 115%.
 - Lv.5 Tăng sát thương lên 125%
 
-{{< onmyoji/skill/train-rattling-vi >}}
-{{< onmyoji/skill/base-chance-vi >}}
-{{< onmyoji/skill/disarm-vi >}}
-
 ### Kiếm Lông Vũ
 Damage, Control, Orb 0
 
@@ -32,6 +26,10 @@ Biến chiếc quạt lông vũ của cô ấy thành một thanh kiếm để t
 - Lv. 3 Tăng sát thương lên 170%.
 - Lv. 4 Tăng sát thương lên 180%.
 - Lv. 5 Tăng sát thương lên 200%.
+
+{{< onmyoji/skill/train-rattling-vi >}}
+{{< onmyoji/skill/base-chance-vi >}}
+{{< onmyoji/skill/disarm-vi >}}
 
 ## Kỹ năng 2: Thăng Hoa
 Special, Dispel, Passive
@@ -63,12 +61,6 @@ Special, Support, Control, Orbs 2
 - Lv.4 Khi cô ấy sử dụng kỹ năng không phải bởi **Tiên Cơ**, nhận được 1 điểm cộng dồn **Lông Công** và 40% Tỷ lệ cơ bản để **Tước Vũ Khí** kẻ thù. 
 - Lv.5 Tiên Cơ: Sử dụng Lông Vũ Lĩnh Vực.
  
-{{< onmyoji/skill/tail-plume-vi >}} 
-{{< onmyoji/skill/train-rattling-vi >}}
-{{< onmyoji/skill/effective-exclusively-vi >}}
-{{< onmyoji/skill/base-chance-vi >}}
-{{< onmyoji/skill/upper-hand-vi >}} 
-
 ### Vũ Điệu Cắt Ngang
 Damage, Control, Orbs 3
 
@@ -78,5 +70,11 @@ Có 100% Tỷ lệ cơ bản gây ra **Tước Vũ Khí** kéo dài 2 lượt. P
 - Lv. 3 Tăng sát thương của các đòn tiếp theo lên 55%.
 - Lv. 4 Tăng sát thương của các đòn tiếp theo lên 60%.
 - Lv. 5 Sát thương của các đòn tiếp theo bỏ qua 240 DEF.
+
+{{< onmyoji/skill/tail-plume-vi >}} 
+{{< onmyoji/skill/train-rattling-vi >}}
+{{< onmyoji/skill/effective-exclusively-vi >}}
+{{< onmyoji/skill/base-chance-vi >}}
+{{< onmyoji/skill/upper-hand-vi >}} 
 
 {{< onmyoji/tags-vi >}}

@@ -1,12 +1,10 @@
 ---
-title: "Onmyoji: SP Bondweaver Enmusubi"
-date: 2023-08-21
-description: "The SP Bondweaver Enmusubi Skill Set in Onmyoji"
-summary: "The SP Bondweaver Enmusubi Skill Set in Onmyoji"   
+title: "Sp Bondweaver Enmusubi skill set in Onmyoji"
+date: 2023-08-21   
 tags: ["Shikigami SP - Onmyoji"]
 cover:
     image: "https://d.gameokko.com/onmyoji/1.jpg" 
-    alt: "Onmyoji: SP Bondweaver Enmusubi"  
+    alt: "SP Bondweaver Enmusubi Skill Set in Onmyoji"  
 ---
 
 ## Skill 1: Weave Bonds
@@ -26,12 +24,6 @@ Effective Exclusively. Has immunity to Move Bar-changing effects from other sour
 
 - This skill cannot be leveled up.
 
-{{< onmyoji/skill/divine-power >}}
-{{< onmyoji/skill/red-earthly-bond >}}
-{{< onmyoji/skill/blue-earthly-bond >}}
-{{< onmyoji/skill/effective-exclusively >}}
-{{< onmyoji/skill/controlling-effect >}}
-
 ### Red Heavenly Bond
 Special, Orb 1
 
@@ -41,6 +33,14 @@ Grants Red Heavenly Bond to the ally, granting them immunity to Move Bar-lowerin
 Special, Orb 1
 
 Grants Blue Heavenly Bond to the ally, granting them immunity to Move Bar-lowering effects. When Bonding with the World is used upon the ally, they are guaranteed to gain Blue Earthly Bond.
+
+
+{{< onmyoji/skill/divine-power >}}
+{{< onmyoji/skill/red-earthly-bond >}}
+{{< onmyoji/skill/blue-earthly-bond >}}
+{{< onmyoji/skill/effective-exclusively >}}
+{{< onmyoji/skill/controlling-effect >}}
+
 
 ## Skill 3: Bonding with the World
 Heal, Support, Special, Orbs 2

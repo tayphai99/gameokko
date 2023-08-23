@@ -1,11 +1,9 @@
 ---
-title: "Sword Chronicles: Awaken - Câu đố"
-date: 2023-08-19
-description: "Danh sách câu đố & đáp án"
-summary: "Danh sách câu đố & đáp án"   
+title: "List of Quizzes and Answers in Sword Chronicles Awaken"
+date: 2023-08-19  
 cover:
     image: "https://d.gameokko.com/sword-chronicles-awaken/q0.jpg" 
-    alt: "Sword Chronicles: Awaken - Câu đố"  
+    alt: "List of Quizzes and Answers in Sword Chronicles Awaken"  
 ---
 
 ## Question 2

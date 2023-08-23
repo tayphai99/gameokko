@@ -1,12 +1,10 @@
 ---
-title: "Onmyoji: SSR Kujaku Myoo"
-date: 2023-08-15
-description: "The SSR Kujaku Myoo Skill Set in Onmyoji"
-summary: "The SSR Kujaku Myoo Skill Set in Onmyoji"   
+title: "SSR Kujaku Myoo Skill Set in Onmyoji"
+date: 2023-08-15 
 tags: ["Shikigami SSR - Onmyoji"]
 cover:
     image: "https://d.gameokko.com/onmyoji/ssr-kujaku-myoo-1.jpg" 
-    alt: "Onmyoji: SSR Kujaku Myoo"  
+    alt: "SSR Kujaku Myoo Skill Set in Onmyoji"  
 ---
 
 ## Skill 1: Plume Dart
@@ -19,10 +17,6 @@ Conjures darts of plumes to strike 1 enemy, dealing damage equal to 100% of her 
 - Lv.4 Increases damage to 115%.
 - Lv.5 Increases damage to 125%
 
-{{< onmyoji/skill/train-rattling >}}
-{{< onmyoji/skill/base-chance >}}
-{{< onmyoji/skill/disarm >}}
-
 ### Plume Razor
 Damage, Control, Orb 0
 
@@ -32,6 +26,10 @@ Turns her feather fan into a sword to attack 1 enemy, dealing damage equal to 15
 - Lv. 3 Increases the damage to 170%.
 - Lv. 4 Increases the damage to 180%.
 - Lv. 5 Increases the damage to 200%.
+
+{{< onmyoji/skill/train-rattling >}}
+{{< onmyoji/skill/base-chance >}}
+{{< onmyoji/skill/disarm >}}
 
 ## Skill 2: Ascendant
 Special, Dispel, Passive
@@ -61,12 +59,6 @@ Special, Support, Control, Orbs 2
 - Lv.4 When she uses the skill not as Upper Hand, gains her 1 Peacock's Plume stack and a 40% Base Chance of inflicting Disarm on enemies.
 - Lv.5 Upper Hand: Creates a Plume Field.
  
-{{< onmyoji/skill/tail-plume >}} 
-{{< onmyoji/skill/train-rattling >}}
-{{< onmyoji/skill/effective-exclusively >}}
-{{< onmyoji/skill/base-chance >}}
-{{< onmyoji/skill/upper-hand >}} 
-
 ### Sundering Dance
 Damage, Control, Orbs 3
 
@@ -76,5 +68,11 @@ Has a 100% Base Chance of inflicting Disarm lasting 2 turns. Launches a 4-strike
 - Lv. 3 Increases the follow-up damage to 55%.
 - Lv. 4 Increases the follow-up damage to 60%.
 - Lv. 5 The follow-up damage ignores DEF by 240.
+
+{{< onmyoji/skill/tail-plume >}} 
+{{< onmyoji/skill/train-rattling >}}
+{{< onmyoji/skill/effective-exclusively >}}
+{{< onmyoji/skill/base-chance >}}
+{{< onmyoji/skill/upper-hand >}} 
 
 {{< onmyoji/tags >}}

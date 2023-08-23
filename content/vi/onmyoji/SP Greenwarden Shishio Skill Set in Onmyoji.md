@@ -1,12 +1,10 @@
 ---
-title: "Onmyoji: SP Greenwarden Shishio"
-date: 2023-08-16
-description: "Bộ kỹ năng SP Greenwarden Shishio trong Onmyoji"
-summary: "Bộ kỹ năng  SP Greenwarden Shishio trong Onmyoji"   
+title: "Bộ Kỹ Năng SP Greenwarden Shishio trong Onmyoji"
+date: 2023-08-16  
 tags: ["Shikigami SP - Onmyoji"]
 cover:
     image: "https://d.gameokko.com/onmyoji/sp-greenwarden-shishio-1.jpg" 
-    alt: "Onmyoji: SP Greenwarden Shishio"  
+    alt: "Bộ Kỹ Năng SP Greenwarden Shishio trong Onmyoji"  
 ---
  
 ## Kỹ năng 1: Hơi Thở Của Rừng

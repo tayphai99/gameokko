@@ -1,12 +1,10 @@
 ---
-title: "Onmyoji: SR Miakashi"
-date: 2023-08-16
-description: "Bộ kỹ năng SR Miakashi trong Onmyoji"
-summary: "Bộ kỹ năng SR Miakashi trong Onmyoji"   
+title: "Bộ Kỹ Năng SR Miakashi trong Onmyoji"
+date: 2023-08-16 
 tags: ["Shikigami SR - Onmyoji"]
 cover:
     image: "https://d.gameokko.com/onmyoji/sr-miakashi-1.jpg" 
-    alt: "Onmyoji: SR Miakashi"  
+    alt: "Bộ Kỹ Năng SR Miakashi trong Onmyoji"  
 ---
 
 ## Kỹ năng 1: Thanh Lọc Tà Khí

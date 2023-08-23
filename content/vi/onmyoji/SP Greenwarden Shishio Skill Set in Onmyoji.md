@@ -3,7 +3,7 @@ title: "Bộ Kỹ Năng SP Greenwarden Shishio trong Onmyoji"
 date: 2023-08-16  
 tags: ["Shikigami SP - Onmyoji"]
 cover:
-    image: "https://d.gameokko.com/onmyoji/sp-greenwarden-shishio-1.jpg" 
+    image: "https://d.gameokko.com/onmyoji/7.jpg" 
     alt: "Bộ Kỹ Năng SP Greenwarden Shishio trong Onmyoji"  
 ---
  

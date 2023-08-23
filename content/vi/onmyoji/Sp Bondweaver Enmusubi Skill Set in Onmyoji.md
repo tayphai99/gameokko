@@ -7,7 +7,7 @@ cover:
     alt: "Bộ Kỹ Năng Sp Bondweaver Enmusubi trong Onmyoji"  
 ---
 
-## Kỹ năng 1: Tạo Liên Kết
+## Kỹ Năng 1: Tạo Liên Kết
 Damage, Orb 0
 
 Tấn công 1 kẻ địch bằng thần lực đã mất từ ​​lâu của cô ấy, gây sát thương bằng 100% ATK của cô ấy.
@@ -17,7 +17,7 @@ Tấn công 1 kẻ địch bằng thần lực đã mất từ ​​lâu của 
 - Lv.4 Tăng sát thương lên 115%.
 - Lv.5 Tăng sát thương lên 125% và nhận 1 điểm Thần Lực.
 
-## Kỹ năng 2: Ngăn Chặn & Bảo Vệ
+## Kỹ Năng 2: Ngăn Chặn & Bảo Vệ
 Dispel, Accelerator, Special, Orb 1
 
 **Hiệu Quả Duy Nhất**. Miễn nhiễm với các hiệu ứng thay đổi Thanh hành động từ các nguồn khác. Trao **Liên Kết Thiên Thần Đỏ** hoặc **Liên Kết Thiên Thần Xanh** cho một đồng minh và cấp cho bản thân 2 điểm cộng dồn **Thần Lực**. Sử dụng kỹ năng một lần nữa sẽ loại bỏ **Liên Kết Thiên Thần** và giải trừ tất cả các hiệu ứng xấu và **Hiệu Ứng Kiểm Soát** khỏi họ. Khi kết thúc lượt của cô ấy và khi kết thúc lượt của đồng minh có **Liên Kết Thiên Thần**, sẽ tăng Thanh hành động của đồng minh lên 30% (kích hoạt tối đa một lần trước lượt tiếp theo của họ). Chỉ có thể có tối đa 1 đồng minh được hưởng **Liên Kết Thiên Thần** trên chiến trường.
@@ -42,7 +42,7 @@ Trao **Liên Kết Thiên Thần Xanh** cho đồng minh, giúp họ miễn nhi�
 {{< onmyoji/skill/controlling-effect-vi >}}
 
 
-## Kỹ năng 3: Liên Kết Thế Giới
+## Kỹ Năng 3: Liên Kết Thế Giới
 Heal, Support, Special, Orbs 2
 
 **Hiệu Quả Duy Nhất**. Cấp cho cô ấy 1 điểm **Thần Lực** và hồi máu cho 1 đồng minh bằng 8% HP tối đa của họ. Họ có 50% cơ hội nhận được **Liên Kết Trần Gian Đỏ** hoặc 50% cơ hội nhận được **Liên Kết Trần Gian Xanh**. Cả hai loại liên kết này kéo dài 1 lượt. Nếu cô ấy có từ 3 điểm cộng dồn **Thần Lực** trở lên, đồng thời hồi máu cho đồng minh khác bằng 8% HP tối đa của họ. Nếu cô ấy có 5 điểm cộng dồn **Thần Lực**, đồng minh sẽ nhận được cả hiệu ứng của **Liên Kết Trần Gian Đỏ** và **Liên Kết Trần Gian Xanh**.

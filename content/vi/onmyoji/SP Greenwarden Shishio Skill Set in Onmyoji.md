@@ -7,7 +7,7 @@ cover:
     alt: "Bộ Kỹ Năng SP Greenwarden Shishio trong Onmyoji"  
 ---
  
-## Kỹ năng 1: Hơi Thở Của Rừng
+## Kỹ Năng 1: Hơi Thở Của Rừng
 Damage, Orb 0
 
 Vẫy cành cây và hướng ánh sáng huỳnh quang vào 1 kẻ địch, gây sát thương bằng 100% ATK của anh ấy.
@@ -17,7 +17,7 @@ Vẫy cành cây và hướng ánh sáng huỳnh quang vào 1 kẻ địch, gây
 - Lv.4 Tăng sát thương lên 115%.
 - Lv.5 Tăng sát thương lên 125%
 
-## Kỹ năng 2: Truy Dấu Tuần Lộc
+## Kỹ Năng 2: Truy Dấu Tuần Lộc
 Heal, Decelerator, Accelerator, Passive
 
 **Hiệu Quả Duy Nhất**. Bất cứ khi nào anh ta tấn công kẻ địch, gây ra **Linh Hồn Của Rừng** kéo dài 1 lượt cho họ. Khi bắt đầu lượt của mình, hấp thụ **Linh Hồn Của Rừng** trên kẻ địch để nhận được 1 điểm tích trữ **Trái Tim Của Rừng** tương đương trong 2 lượt. 
@@ -31,7 +31,7 @@ Heal, Decelerator, Accelerator, Passive
 {{< onmyoji/skill/sylvan-heart-vi  >}}
 {{< onmyoji/skill/effective-exclusively-vi  >}}
 
-## Kỹ năng 3: Hiệp Ước Của Rừng
+## Kỹ Năng 3: Hiệp Ước Của Rừng
 Damage, Decelerator, Special, Orbs 3
 
 Tập trung hơi thở tâm linh của đồng loại để tấn công 1 kẻ địch, gây sát thương bằng 228% ATK của anh ấy. Nếu anh ấy có 3 điểm tích trữ **Trái Tim Của Rừng**, đồng thời giảm 40% Thanh hành động của họ: nếu Thanh hành động của họ bằng 0. Dây leo rừng có 100% Tỷ lệ cơ bản gây ra **Trói Buộc** kéo dài 1 lượt lên chúng.

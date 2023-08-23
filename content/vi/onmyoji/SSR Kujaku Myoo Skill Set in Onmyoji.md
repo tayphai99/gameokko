@@ -7,7 +7,7 @@ cover:
     alt: "Bộ Kỹ Năng SSR Kujaku Myoo trong Onmyoji"  
 ---
 
-## Kỹ năng 1: Phi Tiêu Lông Vũ
+## Kỹ Năng 1: Phi Tiêu Lông Vũ
 Damage, Control, Orb 0
 
 Triệu hồi phi tiêu tấn công 1 kẻ địch, gây sát thương bằng 100% ATK của cô ấy với 30% **Tỷ Lệ Cơ Bản** gây ra **Tước Vũ Khí**. Trong khi cô ấy đang thực hiện **Xòe Đuôi** , thay đổi kỹ năng thành **Kiếm Lông Vũ** với cấp độ kỹ năng của nó bằng với cấp độ kỹ năng của Phi tiêu lông vũ.
@@ -31,7 +31,7 @@ Biến chiếc quạt lông vũ của cô ấy thành một thanh kiếm để t
 {{< onmyoji/skill/base-chance-vi >}}
 {{< onmyoji/skill/disarm-vi >}}
 
-## Kỹ năng 2: Thăng Hoa
+## Kỹ Năng 2: Thăng Hoa
 Special, Dispel, Passive
 
 **Hiệu Quả Duy Nhất**. Khi trận chiến bắt đầu và khi kết thúc lượt của cô ấy. nhận được 1 điểm cộng dồn **Lông Công**. Khi thực thể đồng minh không được triệu hồi có lượng HP thấp nhất nhận sát thương, có 30% **Tỷ Lệ Cơ Bản** gây ra **Tước Vũ Khí** đối với nguồn gây sát thương. Bất cứ khi nào cô ấy nhận được 5 điểm cộng dồn **Lông Công**, cô ấy sẽ nhận được 1 điểm cộng dồn **Lông Đuôi Công** và tăng SPD của cô ấy thêm 50% trong 1 lượt. Nếu cô ấy có 5 điểm cộng dồn **Lông Công** khi bắt đầu lượt của mình, cô ấy sẽ kết thúc **Lông Vũ Lĩnh Vực** và tiêu thụ tất cả các điểm cộng dồn **Lông Công** để thực hiện **Xòe Đuôi** trong 3 lượt.
@@ -51,7 +51,7 @@ Special, Dispel, Passive
 {{< onmyoji/skill/disarm-vi >}}
 {{< onmyoji/skill/controlling-effect-vi >}}
 
-## Kỹ năng 3: Vương Quốc Quyến Rũ
+## Kỹ Năng 3: Vương Quốc Quyến Rũ
 Special, Support, Control, Orbs 2
 
 **Hiệu Quả Duy Nhất**. Sử dụng Lông Vũ Lĩnh Vực trong 1 lượt. Kẻ địch trên sân bị giảm 15% kháng hiệu ứng và 15% tỷ lệ đánh trượt mục tiêu khi sử dụng các đòn tấn công thông thường. Trong khi cô ấy đang thực hiện **Xòe Đuôi**, chuyển kỹ năng thành **Vũ Điệu Cắt Ngang** với cấp độ kỹ năng bằng với cấp độ kỹ năng của Vương quốc quyến rũ.

@@ -3,7 +3,7 @@ title: "Bộ Kỹ Năng SR Miakashi trong Onmyoji"
 date: 2023-08-16 
 tags: ["Shikigami SR - Onmyoji"]
 cover:
-    image: "https://d.gameokko.com/onmyoji/8.jpg" 
+    image: "onmyoji/8.jpg" 
     alt: "Bộ Kỹ Năng SR Miakashi trong Onmyoji"  
 ---
 

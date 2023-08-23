@@ -2,7 +2,7 @@
 title: "Cách Đổi Mã để Nhận Phần Thưởng trong Sword Chronicles Awaken"
 date: 2023-08-20    
 cover:
-    image: "https://d.gameokko.com/sword-chronicles-awaken/0.jpg" 
+    image: "sword-chronicles-awaken/0.jpg" 
     alt: "Cách Đổi Mã để Nhận Phần Thưởng trong Sword Chronicles Awaken"  
 ---
 

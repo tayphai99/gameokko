@@ -3,7 +3,7 @@ title: "R Yamausagi Skill Set in Onmyoji"
 date: 2023-08-14   
 tags: ["Shikigami R - Onmyoji"]
 cover:
-    image: "https://d.gameokko.com/onmyoji/3.jpg" 
+    image: "onmyoji/3.jpg" 
     alt: "R Yamausagi Skill Set in Onmyoji"  
 ---
 

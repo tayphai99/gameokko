@@ -3,7 +3,7 @@ title: "R Kusa Skill Set in Onmyoji"
 date: 2023-08-14   
 tags: ["Shikigami R - Onmyoji"]
 cover:
-    image: "https://d.gameokko.com/onmyoji/4.jpg" 
+    image: "onmyoji/4.jpg" 
     alt: "R Kusa Skill Set in Onmyoji"  
 ---
 

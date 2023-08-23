@@ -2,7 +2,7 @@
 title: "How to Redeem a Code for Claiming Rewards in Sword Chronicles Awaken"
 date: 2023-08-20 
 cover:
-    image: "https://d.gameokko.com/sword-chronicles-awaken/0.jpg" 
+    image: "sword-chronicles-awaken/0.jpg" 
     alt: "How to Redeem a Code for Claiming Rewards in Sword Chronicles Awaken"  
 ---
 

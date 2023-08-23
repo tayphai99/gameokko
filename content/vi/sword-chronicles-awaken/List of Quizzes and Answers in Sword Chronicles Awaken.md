@@ -2,7 +2,7 @@
 title: "Danh sách Câu Hỏi và Đáp Án trong Sword Chronicles Awaken"
 date: 2023-08-19  
 cover:
-    image: "https://d.gameokko.com/sword-chronicles-awaken/q0.jpg" 
+    image: "sword-chronicles-awaken/q0.jpg" 
     alt: "Danh sách Câu Hỏi và Đáp Án trong Sword Chronicles Awaken"  
 ---
 

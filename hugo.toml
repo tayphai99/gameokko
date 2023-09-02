@@ -3,8 +3,8 @@ title = "GAME OKKO"
 paginate = 50
 theme = "PaperMod"
 pluralizeListTitles = false
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguage = "vi"
+defaultContentLanguageInSubdir = false
  
 [languages.en]
 contentDir = "content/en"
@@ -13,7 +13,7 @@ languageCode = "en-US"
 languageDirection = "ltr"
 languageName = "English"
 title = "GAME OKKO"
-weight = 1
+weight = 2
 
   [languages.en.params]
   name = "GAME OKKO"
@@ -47,7 +47,7 @@ languageCode = "vi"
 languageDirection = "ltr"
 languageName = "Tiếng Việt"
 title = "GAME OKKO"
-weight = 2
+weight = 1
  
   [languages.vi.params]
   subtitle = "Game Wiki, Game Guide"

@@ -4,7 +4,7 @@ paginate = 50
 theme = "PaperMod"
 pluralizeListTitles = false
 defaultContentLanguage = "vi"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
  
 [languages.en]
 contentDir = "content/en"

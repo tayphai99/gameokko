@@ -3,7 +3,7 @@ title: "R Zashiki Skill Set in Onmyoji"
 date: 2023-08-14   
 tags: ["Shikigami R - Onmyoji"]
 cover:
-    image: "onmyoji/2.jpg" 
+    image: "/onmyoji/23.webp"
     alt: "R Zashiki Skill Set in Onmyoji"  
 ---
 

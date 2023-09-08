@@ -3,7 +3,7 @@ title: "SR Miakashi Skill Set in Onmyoji"
 date: 2023-08-16   
 tags: ["Shikigami SR - Onmyoji"]
 cover:
-    image: "onmyoji/8.jpg" 
+    image: "/onmyoji/15.webp" 
     alt: "SR Miakashi Skill Set in Onmyoji"  
 ---
 

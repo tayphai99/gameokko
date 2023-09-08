@@ -3,7 +3,7 @@ title: "Bộ Kỹ Năng R Zashiki trong Onmyoji"
 date: 2023-08-14   
 tags: ["Shikigami R - Onmyoji"]
 cover:
-    image: "onmyoji/2.jpg" 
+    image: "/onmyoji/23.webp"
     alt: "Bộ Kỹ Năng R Zashiki trong Onmyoji"  
 ---
 

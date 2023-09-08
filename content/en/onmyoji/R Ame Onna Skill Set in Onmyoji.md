@@ -3,7 +3,7 @@ title: "R Ame Onna Skill Set in Onmyoji"
 date: 2023-08-14   
 tags: ["Shikigami R - Onmyoji"]
 cover:
-    image: "onmyoji/6.jpg" 
+    image: "/onmyoji/19.webp"
     alt: "R Ame Onna Skill Set in Onmyoji"  
 ---
 

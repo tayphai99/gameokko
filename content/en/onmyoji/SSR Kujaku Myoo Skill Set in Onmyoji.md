@@ -3,7 +3,7 @@ title: "SSR Kujaku Myoo Skill Set in Onmyoji"
 date: 2023-08-15 
 tags: ["Shikigami SSR - Onmyoji"]
 cover:
-    image: "onmyoji/9.jpg" 
+    image: "/onmyoji/17.webp"
     alt: "SSR Kujaku Myoo Skill Set in Onmyoji"  
 ---
 

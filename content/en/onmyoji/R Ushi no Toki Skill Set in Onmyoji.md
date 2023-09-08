@@ -3,7 +3,7 @@ title: "R Ushi no Toki Skill Set in Onmyoji"
 date: 2023-08-14   
 tags: ["Shikigami R - Onmyoji"]
 cover:
-    image: "onmyoji/5.jpg" 
+    image: "/onmyoji/20.webp"
     alt: "R Ushi no Toki Skill Set in Onmyoji"  
 ---
 

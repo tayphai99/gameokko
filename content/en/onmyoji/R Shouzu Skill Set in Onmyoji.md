@@ -3,7 +3,7 @@ title: "R Shouzu Skill Set in Onmyoji"
 date: 2023-08-14   
 tags: ["Shikigami R - Onmyoji"]
 cover:
-    image: "onmyoji/10.jpg" 
+    image: "/onmyoji/18.webp"
     alt: "R Shouzu Skill Set in Onmyoji"  
 ---
 

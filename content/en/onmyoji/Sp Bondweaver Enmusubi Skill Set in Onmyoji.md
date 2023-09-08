@@ -3,7 +3,7 @@ title: "Sp Bondweaver Enmusubi Skill Set in Onmyoji"
 date: 2023-08-21   
 tags: ["Shikigami SP - Onmyoji"]
 cover:
-    image: "onmyoji/11.jpg" 
+    image: "/onmyoji/14.webp" 
     alt: "SP Bondweaver Enmusubi Skill Set in Onmyoji"  
 ---
 

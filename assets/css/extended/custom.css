@@ -184,11 +184,16 @@ box-shadow: 0 0 5px #111;}
         box-shadow: 0 0 5px #111;
         border: solid 1px #111;
     }
-.ebox-menu{background-color: #063235;color:#ddd;padding: 15px;border: solid 1px #777;margin: 50px 0;
+.ebox-menu{
+    background-color: #0a0808;color:#ddd;padding: 15px;border: solid 1px #777;margin: 50px 0;
     box-shadow: 0 0 5px #111;
     display: block;
 }
- 
+.post-content a, .toc a:hover {
+    box-shadow: none; 
+    color: #0a8be8;
+    font-weight: bold;
+}
 
 
 

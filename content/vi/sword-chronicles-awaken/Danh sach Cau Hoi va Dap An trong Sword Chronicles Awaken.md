@@ -1,9 +1,9 @@
 ---
-title: "List of Quizzes and Answers in Sword Chronicles Awaken"
+title: "Danh sách Câu Hỏi và Đáp Án trong Sword Chronicles Awaken"
 date: 2023-08-19  
 cover:
     image: "/sword-chronicles-awaken/q0.jpg" 
-    alt: "List of Quizzes and Answers in Sword Chronicles Awaken"  
+    alt: "Danh sách Câu Hỏi và Đáp Án trong Sword Chronicles Awaken"  
 ---
 
 ## Question 2

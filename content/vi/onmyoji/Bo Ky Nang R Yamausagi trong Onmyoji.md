@@ -1,6 +1,7 @@
 ---
 title: "Bộ Kỹ Năng R Yamausagi trong Onmyoji"
 date: 2023-08-14   
+cagegory: Onmyoji
 tags: ["Shikigami R - Onmyoji"]
 cover:
     image: "onmyoji/3.jpg" 

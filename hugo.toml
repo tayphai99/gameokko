@@ -19,26 +19,28 @@ weight = 2
   name = "GAME OKKO"
   subtitle = "News, Game Wiki, Game Guide"
 
+
+
     [languages.en.params.homeInfoParams]
     Title = "News & Game Wikis"
     Content = "Look up information about your favorite game"
 
     [[languages.en.menu.main]]
+    name = "Search"
+    pageRef = "/search"
+    weight = 10
+
+    [[languages.en.menu.main]]
     name = "Onmyoji"
     pageRef = "/onmyoji/"
-    weight = 5
+    weight = 20
 
     [[languages.en.menu.main]]
     name = "Sword Chronicles: Awaken"
     pageRef = "/sword-chronicles-awaken/"
-    weight = 10
+    weight = 30
 
 
-    [[languages.en.menu.main]]
-    name = "Search"
-    pageRef = "/search"
-    weight = 20
- 
 
 [languages.vi]
 contentDir = "content/vi"
@@ -55,21 +57,23 @@ weight = 1
     [languages.vi.params.homeInfoParams]
     Title = "News & Game Wikis"
     Content = "Tra cứu thông tin về trò chơi yêu thích"
-   
+    
+    [[languages.vi.menu.main]]
+    name = "Tìm kiếm"
+    pageRef = "/search"
+    weight = 10
+
     [[languages.vi.menu.main]]
     name = "Onmyoji"
     pageRef = "/onmyoji/"
-    weight = 5
+    weight = 20
 
     [[languages.vi.menu.main]]
     name = "Sword Chronicles: Awaken"
     pageRef = "/sword-chronicles-awaken/"
-    weight = 10
+    weight = 30
 
-    [[languages.vi.menu.main]]
-    name = "Tìm kiếm"
-    pageRef = "/search"
-    weight = 20
+
  
 
 [params]

@@ -1,3 +1,7 @@
+:root {
+     --radius: 0; 
+}
+
 body { 
     font-size: 16px; 
     line-height: 1.5;
@@ -156,10 +160,10 @@ body {
     max-width: 100%;
     height: auto;
   }
-  .post-content img {
-    border-radius: 8px;
+  .post-content img { 
     box-shadow: 0px 0px 5px #111;
     margin: 10px 3px;
+    border-radius: 0;
 }
 /* IMG CSS ADD */ 
 
@@ -254,23 +258,21 @@ body {
 }
 
 .ebox-1 {
-    background-color: #0e1e48;
-    color: #ddd;
-    padding: 7px 10px;
-    border: solid 1px #3b404e;
-    margin: 5px 0;
-    box-shadow: 0 0 5px #111;
-    border-radius: 10px;
-    font-size: 15px;
-}
-.ebox-2 {
-    background-color: #530808;
+    background-color: #282828;
     color: #ddd;
     padding: 7px 10px;
     border: solid 1px #484242;
     margin: 5px 0;
     box-shadow: 0 0 5px #111;
-    border-radius: 10px;
+    font-size: 15px;
+}
+.ebox-2 {
+    background-color: #282828;
+    color: #ddd;
+    padding: 7px 10px;
+    border: solid 1px #484242;
+    margin: 5px 0;
+    box-shadow: 0 0 5px #111;
     font-size: 15px;
 }
 
@@ -282,14 +284,13 @@ body {
     border-radius: var(--radius);
 }
 .ebox-menu {
-    background-color: #1d1d1d;
+    background-color: #282828;
     color: #ddd;
-    padding: 15px;
-    border: solid 1px #444444;
-    margin: 50px 0;
+    padding: 7px 10px;
+    border: solid 1px #484242;
+    margin: 5px 0;
     box-shadow: 0 0 5px #111;
-    display: block;
-    border-radius: 10px;
+    font-size: 15px;
 }
 .post-content a, .toc a:hover {
     box-shadow: none;

@@ -5,41 +5,19 @@ tags: ["Shikigami R - Onmyoji"]
 cover:
     image: "/onmyoji/21.webp"
     alt: "Bộ Kỹ Năng R Kusa trong Onmyoji"  
+    hidden: true
 ---
 
-## Skill 1: Absorption
-Damage, Orb 0
+**Skill 1**: Đánh thường gây sát thương bằng 100% công và cướp 30% máu của mục tiêu.  
+Lv.2/3/4/5: Tăng sát thương lên 105%/110%/115%/125%.
 
-Focuses her magical power and attacks 1 enemy, dealing damage equal to 100% of her ATK and inflicting a 30% HP Steal on them.
+**Skill 2 - Nội tại**: hồi máu bằng 15% công nếu bị tấn công, mỗi lần bị tấn công chỉ kích hoạt một lần, sát thương gánh chịu giảm 30% nếu kẻ gây sát thương có công thấp hơn Kusa.  
+Lv.2/3/4/5: Tăng khả năng hồi máu lên 16%/17%/18%/19%.
 
-- Lv.2 Increases damage to 105%
-- Lv.3 Increases damage to 110%.
-- Lv.4 Increases damage to 115%.
-- Lv.5 Increases damage to 125%
+**Skill 3 - 2 Hỏa**: Hiệu Quả Duy Nhất. Mang theo 2 Hạt Giống Phước Lành khi bắt đầu trận chiến. Mỗi Hạt giống Phước lành tăng ATK cho bản thân thêm 60%.  
 
-## Skill 2: Flower Power
-Heal, Def, Passive 
+Kỹ năng kích hoạt: Cấp Hạt giống Phước lành cho một đồng minh trước khi hồi phục HP cho tất cả đồng minh bằng 87% ATK của cô ấy. Thức tỉnh: Đồng thời cấp cho họ Quang hợp kéo dài 2 lượt, hồi HP bằng 22% ATK của Kusa mỗi lượt.  
 
-When attacked, heals her HP by 15% of her ATK.  
-Triggers only once for a single attack.
-If the source of the damage has a lower ATK than Kusa's, reduces the damage taken by Kusa by 30%.
+Lv.2/3/4/5: Tăng khả năng hồi máu lên 91%/95%/99%/104% và khả năng hồi phục của Quang Hợp lên 23%/24%/25%/26% ATK của cô ấy. 
 
-- Lv.2 Increases healing to 16%.
-- Lv.3 Increases healing to 17%.
-- Lv.4 Increases healing to 18%.
-- Lv.5 Increases healing to 19%.
-
-## Skill 3: Healing Light
-Heal, Orbs 2
-
-Effective Exclusively.  Carries 2 Blessed Seeds at the start of battle. Each Blessed Seed increases her own ATK by 60%.  Active skill: Grants a Blessed Seed to an ally before healing the HP of all allies by an amount equal to 87% of her ATK.
-
-- Lv.2 Increases healing to 91% and the healing of Photosynthesis after her evolution to 23% of her ATK.
-- Lv.3 Increases healing to 95% and the healing of Photosynthesis after her evolution to 24% of her ATK.
-- Lv.4 Increases healing to 99% and the healing of Photosynthesis after her evolution to 25% of her ATK.
-- Lv.5 Increases healing to 104% and the healing of Photosynthesis after her evolution to 26% of her ATK.
-
-{{< onmyoji/skill/blessed-seed >}}
-{{< onmyoji/skill/effective-exclusively >}}
-
-{{< onmyoji/tags >}}
+{{< gallery images="/onmyoji/21.webp, /onmyoji/23.webp, /onmyoji/18.webp, /onmyoji/19.webp" >}}

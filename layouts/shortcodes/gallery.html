@@ -1,0 +1,10 @@
+{{- $images := split (.Get "images") ", " -}}
+<div class="image-gallery">
+  <div class="gallery-container">
+    {{- range $images -}}
+      <div class="gallery-item">
+        <img src="{{ . }}" alt="Image">
+      </div>
+    {{- end -}}
+  </div>
+</div>

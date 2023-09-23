@@ -25,20 +25,17 @@ weight = 2
     Title = "News & Game Wikis"
     Content = "Look up information about your favorite game"
 
-    [[languages.en.menu.main]]
-    name = "Search"
-    pageRef = "/search"
-    weight = 10
 
     [[languages.en.menu.main]]
     name = "Onmyoji"
     pageRef = "/onmyoji/"
-    weight = 20
+    weight = 10
 
     [[languages.en.menu.main]]
-    name = "Sword Chronicles: Awaken"
-    pageRef = "/sword-chronicles-awaken/"
-    weight = 30
+    name = "Search"
+    pageRef = "/search"
+    weight = 20
+
 
 
 
@@ -57,32 +54,28 @@ weight = 1
     [languages.vi.params.homeInfoParams]
     Title = "News & Game Wikis"
     Content = "Tra cứu thông tin về trò chơi yêu thích"
-    
-    [[languages.vi.menu.main]]
-    name = "Tìm kiếm"
-    pageRef = "/tim-kiem"
-    weight = 10
+
 
     [[languages.vi.menu.main]]
     name = "Onmyoji"
     pageRef = "/onmyoji/"
-    weight = 20
-
+    weight = 10
+    
     [[languages.vi.menu.main]]
-    name = "Sword Chronicles: Awaken"
-    pageRef = "/sword-chronicles-awaken/"
-    weight = 30
+    name = "Tìm kiếm"
+    pageRef = "/tim-kiem"
+    weight = 20
 
 
  
 
 [params]
-mainSections = [ "sword-chronicles-awaken", "onmyoji"]
+mainSections = [ "onmyoji"]
 env = "production"
 title = "GAME OKKO"
 description = "News & Game Wiki"
 keywords = [ "News", "Game Wiki", "Game Guide" ]
-author = "okko"
+author = "game okko"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 dateFormatEn = "January 2, 2006"
 dateFormatVi = "2/1/2006"
@@ -92,31 +85,29 @@ hideAuthor = false
 ShowReadingTime = false
 ShowShareButtons = false
 ShowPostNavLinks = false
-ShowBreadCrumbs = true
+ShowBreadCrumbs = false
 ShowCodeCopyButtons = false
 ShowWordCount = false
 ShowRssButtonInSectionTermList = true
-UseHugoToc = true
 disableSpecial1stPost = false
 disableScrollToTop = true
 comments = true
 hidemeta = false
 hideSummary = false
 showtoc = true
-tocopen = false 
-
+tocopen = true 
 
 
   [params.assets]
   favicon = "/icon/favicon.ico"
-  favicon16x16 = "/icon/favicon-16x16.png"
-  favicon32x32 = "/icon/favicon-32x32.png"
-  apple_touch_icon = "/icon/apple-touch-icon.png"
-  safari_pinned_tab = "/icon/android-chrome-512x512.png"
+  favicon16x16 = "/icon/favicon-16x16.webp"
+  favicon32x32 = "/icon/favicon-32x32.webp"
+  apple_touch_icon = "/icon/apple-touch-icon.webp"
+  safari_pinned_tab = "/icon/android-chrome-512x512.webp"
 
   [params.label]
   text = "GAME OKKO"
-  icon = "/icon/apple-touch-icon.png"
+  icon = "/icon/apple-touch-icon.webp"
   iconHeight = 35
 
 [outputs]

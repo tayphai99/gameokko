@@ -21,3 +21,5 @@ Kỹ năng kích hoạt: Cấp Hạt giống Phước lành cho một đồng mi
 Lv.2/3/4/5: Tăng khả năng hồi máu lên 91%/95%/99%/104% và khả năng hồi phục của Quang Hợp lên 23%/24%/25%/26% ATK của cô ấy. 
 
 {{< gallery images="/onmyoji/21.webp, /onmyoji/23.webp, /onmyoji/18.webp, /onmyoji/19.webp" >}}
+
+{{< video url="https://iframe.mediadelivery.net/embed/156811/40c1e72b-ca9f-4c28-907e-8ea7a517a1aa" >}}

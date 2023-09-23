@@ -1,22 +1,3 @@
-<div class="container">
-    <div id="player-wrapper" class="{{ .Get 1 }}"></div>
-  </div>
-  
-  <script 
-    type="text/javascript" 
-    src="https://cdn.jsdelivr.net/npm/@clappr/player@latest/dist/clappr.min.js"
-  >
-  </script>
-  
-  <script>
-    var playerElement = document.getElementById("player-wrapper");
-  
-    var player = new Clappr.Player({
-      source: {{ .Get 0 }},
-      mute: true,
-      height: 360,
-      width: 640
-    });
-  
-    player.attachTo(playerElement);  
-  </script>
+<div style="position:relative;padding-top:56.25%;margin: 30px 0;">
+  <iframe src="{{ .Get "url" }}?cc_load_policy=1" loading="auto" preload="auto" style="border:0;position:absolute;top:0;height:100%;width:100%;border-radius: 8px;box-shadow: 0 0 5px #111;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe>
+</div>

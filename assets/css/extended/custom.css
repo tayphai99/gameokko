@@ -50,6 +50,7 @@ body {
 }
 .post-entry { 
     box-shadow: 0 0 5px #111;  
+    border: none;
 }
 .post-entry:hover { 
     box-shadow: 0 0 9px #000; 
@@ -155,6 +156,11 @@ body {
     max-width: 100%;
     height: auto;
   }
+  .post-content img {
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px #111;
+    margin: 10px 3px;
+}
 /* IMG CSS ADD */ 
 
 

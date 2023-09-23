@@ -146,8 +146,8 @@ body {
   }
   
   .gallery-item {
-    flex: 0 0 400px;
-    margin-right: 20px;
+    flex: 0 0 90%;
+    margin-right: 10px;
     scroll-snap-align: start;
   }
   

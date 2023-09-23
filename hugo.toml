@@ -100,14 +100,14 @@ tocopen = true
 
   [params.assets]
   favicon = "/icon/favicon.ico"
-  favicon16x16 = "/icon/favicon-16x16.webp"
-  favicon32x32 = "/icon/favicon-32x32.webp"
-  apple_touch_icon = "/icon/apple-touch-icon.webp"
-  safari_pinned_tab = "/icon/android-chrome-512x512.webp"
+  favicon16x16 = "/icon/favicon-16x16.png"
+  favicon32x32 = "/icon/favicon-32x32.png"
+  apple_touch_icon = "/icon/apple-touch-icon.png"
+  safari_pinned_tab = "/icon/android-chrome-512x512.png"
 
   [params.label]
   text = "GAME OKKO"
-  icon = "/icon/apple-touch-icon.webp"
+  icon = "/icon/apple-touch-icon.png"
   iconHeight = 35
 
 [outputs]

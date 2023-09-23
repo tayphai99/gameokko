@@ -3,7 +3,7 @@ title: "Bộ Kỹ Năng R Kusa trong Onmyoji"
 date: 2023-08-14   
 tags: ["Shikigami R - Onmyoji"]
 cover:
-    image: "/onmyoji/21.webp"
+    image: "/onmyoji/1.webp"
     alt: "Bộ Kỹ Năng R Kusa trong Onmyoji"  
     hidden: true
 ---

@@ -7,6 +7,9 @@ cover:
     alt: "Bộ Kỹ Năng R Kusa trong Onmyoji"  
     hidden: true
 ---
+{{< rawhtml >}}
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/nLxl8XxxsrY" frameborder="0" allowfullscreen></iframe>
+{{< /rawhtml >}}
 
 {{< video url="https://iframe.mediadelivery.net/embed/156811/40c1e72b-ca9f-4c28-907e-8ea7a517a1aa" description="Bộ Kỹ Năng R Kusa trong Onmyoji">}}
 
@@ -33,4 +36,6 @@ Lv.2/3/4/5: Tăng khả năng hồi máu lên 91%/95%/99%/104% và khả năng h
 {{< video url="https://iframe.mediadelivery.net/embed/156811/40c1e72b-ca9f-4c28-907e-8ea7a517a1aa" description="Bộ Kỹ Năng R Kusa trong Onmyoji">}}
 
 
-
+{{< rawhtml >}}
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/nLxl8XxxsrY" frameborder="0" allowfullscreen></iframe>
+{{< /rawhtml >}}

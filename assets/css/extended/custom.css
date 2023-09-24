@@ -1,6 +1,76 @@
 :root {
-     --radius: 0; 
+     --radius: 8px; 
+     --theme: #ddd;
+    
 }
+.dark {
+    --theme: #191a23; 
+    --entry: #21232e; 
+}
+.post-entry{
+    border: none;
+    box-shadow: 0 1px 2px -1px rgb(0 0 0 / 10%), 0 1px 3px rgb(12 12 12 / 10%);
+}
+.entry-cover img { 
+    box-shadow: 0 1px 2px -1px rgb(0 0 0 / 10%), 0 1px 3px rgb(12 12 12 / 10%);
+}
+
+
+
+
+
+
+
+
+/* POST-INDEX CSS ADD */ 
+.index_box {
+    display: flex;
+}
+.index_box-left {
+    width: 50%;
+}
+.entry-cover {
+    margin-bottom: 0;
+}
+.toc {
+    margin-top: 20px;
+}
+.index_box-right {
+    width: 50%;
+    padding: 0 15px;
+}
+.tag-entry .entry-cover{
+    display: block;
+}
+@media screen and (max-width:480px) { 
+    .index_box {
+        display: block;
+    }
+    .index_box-left {
+        width: 100%;
+    }
+    .entry-cover {
+        margin-bottom: var(--gap);
+    }
+    .toc {
+        margin-top: 0;
+    }
+    .index_box-right {
+        width: 100%;
+        padding: 0;
+    }
+}
+/* POST-INDEX CSS ADD */ 
+
+
+
+
+
+
+
+
+
+
 
 body { 
     font-size: 16px; 
@@ -52,13 +122,7 @@ body {
 .pagination a:hover {
     box-shadow: 0 0 9px #000; 
 }
-.post-entry { 
-    box-shadow: 0 0 5px #111;  
-    border: none;
-}
-.post-entry:hover { 
-    box-shadow: 0 0 9px #000; 
-}
+
 .post-content h2 {
     font-size: 18px;
     margin: 25px 0 0 0;
@@ -132,9 +196,7 @@ body {
     margin-inline-end: auto;
     line-height: var(--header-height);
 }
-.entry-cover img { 
-    box-shadow: 0 0 5px #111;
-}
+
  
 
 /* IMG CSS ADD */ 
@@ -160,57 +222,14 @@ body {
     max-width: 100%;
     height: auto;
   }
-  .post-content img { 
-    box-shadow: 0px 0px 5px #111;
-    margin: 10px 3px;
-    border-radius: 0;
+  .post-content img {
+    box-shadow: 0 0 5px #111;
+    margin: 10px 0px;
+    border-radius: var(--radius);
 }
 /* IMG CSS ADD */ 
 
 
-/* INDEX CSS ADD */ 
-.index_box {
-    display: flex;
-}
-.index_box-left {
-    width: 50%;
-}
-.entry-cover {
-    margin-bottom: 0;
-}
-.toc {
-    margin-top: 20px;
-}
-.index_box-right {
-    width: 50%;
-    padding: 0 15px;
-}
-    /* show cover in tags */ 
-.tag-entry .entry-cover{
-    display: block;
-}
-
-  
-@media screen and (max-width:480px) { 
-    .index_box {
-        display: block;
-    }
-    .index_box-left {
-        width: 100%;
-    }
-    .entry-cover {
-        margin-bottom: var(--gap);
-    }
-    .toc {
-        margin-top: 0;
-    }
-    .index_box-right {
-        width: 100%;
-        padding: 0;
-    }
-}
-
-/* INDEX CSS ADD */ 
 
 
 /* INDEX CSS ADD Index*/ 
@@ -262,18 +281,20 @@ body {
     color: #ddd;
     padding: 7px 10px;
     border: solid 1px #484242;
-    margin: 5px 0;
+    margin: 3px 0;
     box-shadow: 0 0 5px #111;
     font-size: 15px;
+    border-radius: var(--radius);
 }
 .ebox-2 {
     background-color: #282828;
     color: #ddd;
     padding: 7px 10px;
     border: solid 1px #484242;
-    margin: 5px 0;
+    margin: 3px 0;
     box-shadow: 0 0 5px #111;
     font-size: 15px;
+    border-radius: var(--radius);
 }
 
 .ebox-1 img, .ebox-2 img {
@@ -290,53 +311,12 @@ body {
     border: solid 1px #484242;
     margin: 5px 0;
     box-shadow: 0 0 5px #111;
+    border-radius: var(--radius);
     font-size: 15px;
 }
 .post-content a, .toc a:hover {
     box-shadow: none;
     color: #e87d0a; 
-}
-
-
-/* POST ONMYOJI*/
-.onmyoji-skill {
-    display: flex;
-    align-items: center;
-    margin: 32px auto 24px;
-    border-top: solid 1px #444;
-    padding-top: 20px;
-}
-
-.onmyoji-skill h2 {
-    border-top: 0;
-    padding-top: 0;
-    margin: 10px;
-}
-.onmyoji-skill img {
-    box-shadow: 0 0 5px #000;
-    border-radius: 50%;
-    width: 70px;
-    height: 70px;
-    border: solid 3px #c4c4c4;
-}
-.onmyoji-skill-sub {
-    display: flex;
-    align-items: center;
-    margin: 24px auto 18px;
-    padding-top: 20px;
-}
-
-.onmyoji-skill-sub h3 {
-    border-top: 0;
-    padding-top: 0;
-    margin: 10px;
-}
-.onmyoji-skill-sub img {
-    box-shadow: 0 0 5px #000;
-    border-radius: 50%;
-    width: 50px;
-    height: 50px;
-    border: solid 3px #db930d;
 }
 
  

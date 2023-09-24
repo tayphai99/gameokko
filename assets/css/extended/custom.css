@@ -1,3 +1,5 @@
+
+
 :root {
      --radius: 8px; 
      --theme: #ddd;
@@ -63,6 +65,41 @@
     }
 }
 /* POST-INDEX CSS ADD */ 
+
+
+/* image-gallery */ 
+.image-gallery {
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 30px;
+  }
+  
+  .gallery-container {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+  }
+  
+  .gallery-item {
+    flex: 0 0 90%;
+    margin-right: 10px;
+    scroll-snap-align: start;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  .post-content img {
+    box-shadow: 0 0 5px #111;
+    margin: 10px 0px;
+    border-radius: var(--radius);
+}
+/* image-gallery */ 
+
+
+
 
 
 
@@ -201,35 +238,6 @@ body {
 
  
 
-/* IMG CSS ADD */ 
-.image-gallery {
-    width: 100%;
-    overflow: hidden;
-  }
-  
-  .gallery-container {
-    display: flex;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-  }
-  
-  .gallery-item {
-    flex: 0 0 90%;
-    margin-right: 10px;
-    scroll-snap-align: start;
-  }
-  
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-  .post-content img {
-    box-shadow: 0 0 5px #111;
-    margin: 10px 0px;
-    border-radius: var(--radius);
-}
-/* IMG CSS ADD */ 
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Bộ Kỹ Năng R Kusa trong Onmyoji"
+title: "Bộ Kỹ Năng R Kusa trong Onmyoji 2"
 date: 2023-08-14   
 tags: ["Shikigami R - Onmyoji"]
 cover:
@@ -31,7 +31,7 @@ Lv.2/3/4/5: Tăng khả năng hồi máu lên 91%/95%/99%/104% và khả năng h
 
 {{< video url="/video/1.mp4" >}}
  
- 
+
 {{< onmyoji/tags-vi >}}
 
  

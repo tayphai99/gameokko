@@ -19,7 +19,10 @@
 .post-entry:hover {
     box-shadow: 0 10px 15px -3px rgb(0 0 0 / 10%), 0 4px 6px -4px rgb(0 0 0 / 10%);
 }
-
+.page-header, .post-header {
+    margin: 24px auto var(--content-gap);
+    margin-bottom: 15px;
+}
 
 
 

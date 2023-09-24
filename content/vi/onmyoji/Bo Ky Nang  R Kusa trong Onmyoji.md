@@ -8,10 +8,8 @@ cover:
     hidden: true
 ---
 
-{{< gallery images="/onmyoji/002.webp, /onmyoji/21.webp, /onmyoji/23.webp, /onmyoji/18.webp, /onmyoji/19.webp" >}}
+{{< gallery images="/onmyoji/002.webp" >}}
 
-
-## Kỹ năng
 **Skill 1**: Đánh thường gây sát thương bằng 100% công và cướp 30% máu của mục tiêu.  
 Lv.2/3/4/5: Tăng sát thương lên 105%/110%/115%/125%.
 
@@ -28,11 +26,6 @@ Lv.2/3/4/5: Tăng khả năng hồi máu lên 91%/95%/99%/104% và khả năng h
 {{< onmyoji/skill/photosynthesis-vi >}}
 {{< onmyoji/skill/effective-exclusively-vi >}}
 
+ {{< onmyoji/tags-vi >}}
 
-
-
-{{< onmyoji/tags-vi >}}
-
- 
-
-{{< cmvi >}}
+ {{< cmvi >}}

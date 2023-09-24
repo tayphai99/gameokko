@@ -94,8 +94,8 @@ disableScrollToTop = true
 comments = true
 hidemeta = false
 hideSummary = false
-showtoc = true
-tocopen = true 
+showtoc = false
+tocopen = false 
 
 
   [params.assets]

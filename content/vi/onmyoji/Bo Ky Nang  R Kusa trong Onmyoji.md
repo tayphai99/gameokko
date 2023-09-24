@@ -3,14 +3,16 @@ title: "Bộ Kỹ Năng R Kusa trong Onmyoji"
 date: 2023-08-14   
 tags: ["Shikigami R - Onmyoji"]
 cover:
-    image: "/onmyoji/21.webp"
+    image: "/onmyoji/002.webp"
     alt: "Bộ Kỹ Năng R Kusa trong Onmyoji"  
     hidden: true
 ---
 
-{{< gallery images="/onmyoji/21.webp, /onmyoji/23.webp, /onmyoji/18.webp, /onmyoji/19.webp" >}}
+{{< gallery images="/onmyoji/002.webp, /onmyoji/21.webp, /onmyoji/23.webp, /onmyoji/18.webp, /onmyoji/19.webp" >}}
 
- **Skill 1**: Đánh thường gây sát thương bằng 100% công và cướp 30% máu của mục tiêu.  
+
+## Kỹ năng
+**Skill 1**: Đánh thường gây sát thương bằng 100% công và cướp 30% máu của mục tiêu.  
 Lv.2/3/4/5: Tăng sát thương lên 105%/110%/115%/125%.
 
 **Skill 2 - Nội tại**: hồi máu bằng 15% công nếu bị tấn công, mỗi lần bị tấn công chỉ kích hoạt một lần, sát thương gánh chịu giảm 30% nếu kẻ gây sát thương có công thấp hơn Kusa.  
@@ -26,6 +28,10 @@ Lv.2/3/4/5: Tăng khả năng hồi máu lên 91%/95%/99%/104% và khả năng h
 {{< onmyoji/skill/photosynthesis-vi >}}
 {{< onmyoji/skill/effective-exclusively-vi >}}
 
+
+{{< video url="/video/1.mp4" >}}
+ 
+ 
 {{< onmyoji/tags-vi >}}
 
  

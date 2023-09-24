@@ -28,8 +28,6 @@ Lv.2/3/4/5: Tăng khả năng hồi máu lên 91%/95%/99%/104% và khả năng h
 
 {{< onmyoji/tags-vi >}}
 
-{{< gallery images="/onmyoji/21.webp, /onmyoji/23.webp, /onmyoji/18.webp, /onmyoji/19.webp" >}}
-{{< video url="https://iframe.mediadelivery.net/embed/156811/40c1e72b-ca9f-4c28-907e-8ea7a517a1aa" description="Bộ Kỹ Năng R Kusa trong Onmyoji">}}
-
+ 
 
 {{< cmvi >}}

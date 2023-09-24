@@ -286,25 +286,16 @@ body {
     border-radius: var(--radius);
 }
 
-.ebox-1 {
+ 
+.ebox-1, .ebox-2 {
     background-color: #282828;
     color: #ddd;
-    padding: 7px 10px;
-    border: solid 1px #484242;
-    margin: 3px 0;
-    box-shadow: 0 0 5px #111;
+    padding: 7px 10px; 
+    margin: 3px 0; 
     font-size: 15px;
     border-radius: var(--radius);
-}
-.ebox-2 {
-    background-color: #282828;
-    color: #ddd;
-    padding: 7px 10px;
-    border: solid 1px #484242;
-    margin: 3px 0;
-    box-shadow: 0 0 5px #111;
-    font-size: 15px;
-    border-radius: var(--radius);
+    box-shadow: 0 1px 2px -1px rgb(0 0 0/.1), 0 1px 3px rgb(12 12 12/.1);
+    border-color: #21232e;
 }
 
 .ebox-1 img, .ebox-2 img {
@@ -317,12 +308,12 @@ body {
 .ebox-menu {
     background-color: #282828;
     color: #ddd;
-    padding: 7px 10px;
-    border: solid 1px #484242;
-    margin: 5px 0;
-    box-shadow: 0 0 5px #111;
+    padding: 7px 10px; 
+    margin: 5px 0; 
     border-radius: var(--radius);
     font-size: 15px;
+    box-shadow: 0 1px 2px -1px rgb(0 0 0/.1), 0 1px 3px rgb(12 12 12/.1);
+    border-color: #21232e;
 }
 .post-content a, .toc a:hover {
     box-shadow: none;

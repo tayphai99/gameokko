@@ -29,8 +29,7 @@ Lv.2/3/4/5: Tăng khả năng hồi máu lên 91%/95%/99%/104% và khả năng h
 {{< onmyoji/skill/effective-exclusively-vi >}}
 
 
-{{< video url="/video/1.mp4" >}}
- 
+
 
 {{< onmyoji/tags-vi >}}
 

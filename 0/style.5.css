@@ -1,0 +1,242 @@
+*, ::after, ::before {box-sizing: border-box;}
+a {text-decoration: none;color: #ccc;}
+a:active{color: #ccc;}
+img {border-style: none;display: inline-block;vertical-align: bottom;}
+h1, h2, h3 {padding: 0;margin: 0;margin-bottom: 10px;}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 30px;
+    padding-right: 0;
+}
+li {
+    margin-bottom: 5px;
+}
+p {
+    padding: 10px 0;
+    margin: 0;
+}
+
+body {
+    font-size: 15px;
+    background-color: #191a23;
+    margin: 0 auto;
+    color: #ddd;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    width: 100%;
+}
+.g0 {
+    width: 100%;
+    max-width: 480px;
+    margin: 0 auto;
+    text-align: center;
+}
+.g0 a{
+    color: #ccc;
+    background: #21232e;
+    padding: 15px;
+    display: block;
+    margin: 5px;
+    border-radius: 8px;
+    box-shadow: 0 1px 2px -1px rgb(0 0 0/.1), 0 1px 3px rgb(12 12 12/.1);
+    text-decoration: none;
+
+}
+.g0 a:hover{
+    box-shadow: 0 10px 15px -3px rgb(0 0 0/.1),0 4px 6px -4px rgb(0 0 0/.1);
+
+}
+.g1 {
+    text-align: center;
+    margin: 30px auto;
+}
+.g1-l {
+    font-size: 36px;
+    font-weight: bold;
+}
+.g1-r {
+    color: orange;
+    font-weight: bold;
+    padding-left: 2px;
+    font-size: 36px;
+}
+.g1 a {
+    display: inline-block;
+    color: #fff;
+    border-bottom: none;
+    margin: 0;
+}
+.g1-s {
+    font-size: 14px;
+    font-weight: bold;
+    display: block;
+    color: #ccc;
+    letter-spacing: 3px;
+    line-height: 14px;
+}
+.g2 {
+    background: #21232e;
+    margin: 0 auto;
+    padding: 24px;
+    max-width: 720px;
+    width: 97%; 
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+
+.box1s {
+    display: flex;
+    flex-wrap: wrap; 
+ 
+}
+.box1 {
+    width: 214px;
+    display: flex;
+    flex-wrap: wrap;
+    background: #41424e;
+    margin: 5px 10px 5px 0;
+    align-items: center;
+    border-radius: 10px;  
+}
+.orange{
+    border-bottom: dashed 1px orange;
+}
+.box1:hover{
+    background: #2c2c32;
+}
+.box1 img {
+    width: 45px;
+    height: 45px;
+    margin: 5px;
+    border-radius: 10px;
+}
+ span.box1-name {
+    display: block;
+    font-size: 14px;
+    margin: 0 7px;
+}
+ 
+.box1-left {
+    width: 50px;
+    float: left;
+}
+.box1-right {
+    width: calc(100% - 50px); 
+}
+.box4{
+    margin-top: 10px;
+}
+.box4 a {
+    background-color: #41424e;
+    padding: 3px 7px;
+    display: inline-block;
+    margin: 3px 0px;
+    border-radius: 10px; 
+}
+.box4 a:hover {
+    background: #2c2c32;
+}
+ 
+ 
+.box-note {
+    padding: 10px 15px;
+    background: #0c64d8;
+    border-radius: 10px;
+}
+
+
+.footer {
+    font-size: 14px;
+    text-align: center;
+    color: #999;
+}
+.footer a{
+    color: #999;
+}
+
+/* ACC */ 
+ 
+.btn {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: none;
+    padding: 0px;
+    color: #fff;
+}
+.btn img {
+    width: 38px;
+    height: 38px;
+    border: solid 1px #7f7d7d;
+    border-radius: 5px;
+    margin-bottom: 3px;
+}
+.btn img:hover {
+    border: solid 1px orange;
+}
+.fo {
+    display: none;
+    background: #21232e;
+    margin-bottom: 30px;
+    width: 97%;
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 24px; 
+    border-radius: 10px;
+}
+.fo img {
+    height: auto;
+    width: 14.2%;
+    padding-right: 1%;
+    padding-top: 5px;
+    border-radius: 3px;
+}
+.fo p {
+    padding: 0px 0px 5px 0px;
+}
+.show {display:block;}
+/* ACC */ 
+
+
+
+
+.comment {
+    margin: 0 auto;
+    max-width: 720px;
+    width: 99%;
+}
+.go-to-top {
+    position: fixed;
+    bottom: 10px;
+    right: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+.nhan-tin {
+    background: #0c64d8;
+    color: #fff;
+}
+.len {
+    background: #111;
+    color: #fff;
+}
+.go-to-top a {
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+@media screen and (max-width:480px) { 
+    .box1 {
+    width: 100%;margin: 5px 0;
+    }
+    .g2, .fo { 
+    padding: 15px; 
+    }
+
+ }

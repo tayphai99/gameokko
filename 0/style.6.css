@@ -91,43 +91,42 @@ body {
 
 .box1s {
     display: flex;
-    flex-wrap: wrap; 
- 
-}
-.box1 {
-    width: 214px;
+    flex-wrap: wrap;
+    margin-top: 10px;
+ }
+ .box1 {
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     background: #41424e;
-    margin: 5px 10px 5px 0;
+    margin: 5px 0;
     align-items: center;
-    border-radius: 10px;  
+    border-radius: 10px;
 }
-.orange{
-    border-bottom: dashed 1px orange;
-}
-.box1:hover{
+ .box1:hover{
     background: #2c2c32;
-}
-.box1 img {
+ }
+ .box1 img {
     width: 45px;
     height: 45px;
     margin: 5px;
     border-radius: 10px;
-}
+ }
  span.box1-name {
     display: block;
     font-size: 14px;
     margin: 0 7px;
-}
- 
-.box1-left {
+ }
+  
+ .box1-left {
     width: 50px;
     float: left;
+ }
+ .box1-right {
+    width: calc(100% - 50px);
+    padding: 15px 2px;
 }
-.box1-right {
-    width: calc(100% - 50px); 
-}
+
 .box4{
     margin-top: 10px;
 }
